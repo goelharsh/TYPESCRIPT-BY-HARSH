@@ -1,0 +1,16 @@
+
+to initate a tsconfig.json file 
+tsc --init
+
+
+using this command we dont have to run the file manually again and again
+tsc --watch
+
+
+we are defining that our compiled file should be in dist folder 
+also to run the file we should write only
+tsc
+in terminal to run the file
+'outDir': './dist'
+
+
